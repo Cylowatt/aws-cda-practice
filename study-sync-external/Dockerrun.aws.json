@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVerison": "1",
+    "Image": {
+        "Name": "188506350142.dkr.ecr.eu-west-2.amazonaws.com/study-sync"
+    },
+    "Ports": [
+        {
+            "ContainerPort": 8080,
+            "HostPort": 8080
+        }
+    ]
+}
